@@ -1,0 +1,2563 @@
+Add a New Agent
+Starting the process
+To add a new agent darwin Cloud, take the following steps:
+Click the People menu
+Click the new button
+Select Agent person type from the dropdown list
+Click select
+
+
+Person Details: Select person type and enter details according to requirements
+Fill in the first name, last name in the field
+Select the company from the dropdown list
+Enter email address
+Click the next button
+
+
+Select phone type
+Enter phone number
+Click next
+
+
+Address: Select address type and enter required fields
+Select address type from the drop-down list
+Enter street#, street name, designation
+Enter zip to automatically populate city and state (user may also use the magnifying glass to search)
+Click the next button
+
+
+Optionally keep clicking next to fill out information from steps 3 through 11 (this information can be skipped and can be filled in once the agent profile is open)
+Click add
+
+
+
+
+People Basics
+Fill in the familiar name with the agent's first name
+Fill in the corporate name
+Check the box to use corporate name. This will get agent checks to print with the corporate name.
+Enter the email address in the field
+Enter the personal website of the agent in the url field (optional)
+Type in the birthday in the field or select it in the calendar from the drop-down menu (optional)
+Select the gender from the drop down list (optional)
+Click save
+
+
+Add agent's address
+Click the plus (+) button next to addresses
+Select Mailing as the address type from the drop-down list
+Enter the address details in the fields as needed
+Click add
+Click save
+
+
+NOTE: Multiple addresses can be added by clicking the + button next to addresses, then enter the address information.
+Add agent's phone number
+Click the plus (+) button next to phone numbers
+Select the phone type from the drop down list
+Enter the phone number
+Click save
+
+
+NOTE: It is very important for the agent to have a mobile phone number. This can be added by clicking the + button again next to phone numbers.
+Add agent's social media account (optional)
+Click the plus (+) button next to websites
+Select website type from the drop down list
+Enter the url
+Enter name
+Select content language from the drop down list
+Click add
+Click save
+
+
+People links
+Click the People links
+Select what type of 1099 the agent gets from the drop down list
+Check the box that the agent gets 1099
+Enter agent's personal tax ID
+Enter corporate tax ID if agent will be using the corporate name
+Fill in the dates for the corporation start and corporation end
+Check the box if agent works full time and if it will show on internet
+Click save
+
+
+Add MLS ID
+Click the plus (+) button next to MLS ID
+Select MLS source
+Enter the MLS ID of the agent
+Click add
+Click save
+
+
+NOTE: To add a multiple MLS IDs, just click the plus (+) button, and repeat the steps.
+Add agent to a contact group
+Click the plus (+) button next to contact groups
+Select a contact group from the drop down list
+Click add
+
+
+There are many fields on the People links page that are auto-filled.  (like franchise sa quid) . Also, the people screens are not only used for agents. As buyers and sellers, or mortgage companies, etc. are added by other software programs that darwin "talks" to - the ID values that link people between darwin cloud and other software are displayed here.  The link values will be auto-added by darwin. Cloud
+Agent Basics
+Click Agent basics
+Enter the start date the calendar to select the date
+If the agent is on the commission plan, enter the anniversary date by typing in the field or selecting it in the calendar
+Check the active box
+Fill in the career start when the agent started in the real estate business
+Fill in the brand start when the agent started in the brand or company
+The start date is when the agent started with your company. The anniversary date is used for calculating their commission contract.
+
+
+Agent Basics: Adding more information
+Select the prior occupation of the agent from the dropdown list
+Select the prior affiliation of the agent from the dropdown list
+Fill in the education level the agent have attained from the list
+If applicable, select an agent team from the dropdown list
+Select specialty from the dropdown list
+Click the magnifying glass to pull up a person record for the following:
+recruited by
+coached by
+managed by
+emergency contact
+
+
+To add recruited by, coached by, managed by, emergency contact
+Type some portion of the person name
+Select person type from the drop down list to limit People types in the search results
+Click search
+Click the name of the person
+
+
+To add Licences
+Click the plus (+) button next to licenses
+Select license type from the drop down list
+Select the state from the drop down list
+Enter the issued date of the license
+Expiration date of the license
+Enter the license number
+Click add
+Click save
+
+
+To add a multiple licenses, click the plus (+) button next to licenses and repeat the steps.
+To add Insurance
+Click the plus (+) button next to insurances
+Select the insurance type from the drop down list
+Enter the expiration date
+Click add
+Click save
+
+
+To add a multiple insurances, click the plus (+) button next to insurances and repeat the steps.
+To add preferences:
+Click the plus (+) button next to preferences
+Select a preference from the drop down list
+Check the box is enabled
+Click save (pop up window)
+Click save
+
+
+Web profile
+Add a web profile
+Click the plus (+) button next to web profiles
+Select a web category from the drop down list
+Enter the profile text that describes the agent
+Click add
+Click save
+
+
+To add more profiles of the agent ( qualifications, awards, hobbies, credentials, etc. ), click the plus (+) button next to web profiles and repeat the steps.
+These descriptions of the agent are used for advertising the agent on the internet.
+Add a Language the agent speaks
+Click the plus (+) button next to languages
+Select language from the drop down list
+Click add
+
+
+To add more languages the agent speaks, just click the + symbol and repeat the steps.
+Add area of specializations
+Click the plus (+) button next to area of specializations
+Select area of specialization from the drop down list
+Click add
+
+
+To add more area of specialization of the agent, click the plus (+) button next to area of specializations and repeat the steps.
+Add a professional designation of the agent:
+Click the plus (+) button next to designations
+Select professional designation from the drop down list
+Click add
+
+
+To add more professional designations of the agent, click the plus (+) button next to designations and repeat the steps.
+Commission
+Click the Commission sub menu
+Click the hyperlink to select the current commission plan of the agent
+Select plan from the drop down list
+Select sub plan
+Select next commission plan to apply if there will be changes in the agent's commission plan
+Enter the effective date when the next commission plan will start
+Click save
+
+
+There are 5 columns on the commission page that you may never need to use.
+% percentage - used when the agent pays a lower % than standard for the deduction
+$ amount - used when the agent pays a lower dollar amount than the standard deduct
+$ CAP - used if a deduction is designed to stop withholding at a threshold
+% max - used if the office has a "never take more than %" for this agent
+$ max - used if the office has a "never take more than $" for this agent
+terminated date - used if the rules set on the deduction table will no longer apply
+Add Agent Tracking Totals
+Click the plus (+) button next to refresh totals
+Check the box of the totals that need to be added to the agent profile
+Click  add
+Select from the options for which agents the totals will be saved
+Click save
+
+
+
+
+Add Agent's Prior Production and agent commission notes
+Type the production numbers in the following fields as needed:
+prior AGCI
+prior volume
+prior sides
+prior net
+Add agent commission notes to show when closing a transaction
+Enter text for the commission reminder on the provided field
+Click save
+
+
+Billing
+To add an item that needs to be charged to the agent on a recurring basis:
+Click the Billing sub menu
+Click the plus (+) button next to recurring billable items
+Select the items the agent pays on a regular basis by checking the box
+Click add
+Click save
+Select from the options where the billing items will be saved
+Click save (pop up window)
+
+
+
+
+Add billing notes as needed
+Enter billing notes on the provided field
+Click save
+
+
+Overrides
+Adding Overrides
+Click Overrides sub-menu
+Click the plus + button next to overrides
+Enter the applies to: information
+Enter the pay to: information
+pay to
+office
+role
+account
+Click add
+
+
+
+
+If the override is amount based:
+Click amount $ field to enter the amount
+Click add
+
+
+If the override is a calculated percentage:
+Click percentage to fill in information
+Click the ellipsis (...) next to the field of based on
+Scroll on the merge fields and double click to choose the percentage of what formula or field is to be paid
+Click save
+Click add
+
+
+
+
+
+
+If the override has a limit:
+Enter limit $ (if applicable)
+Enter limit # (if applicable)
+Enter date range (if applicable)
+Click add
+
+
+If this override will only apply after a different override has reached its limit:
+Select the preceding override from trigger after this override drop down
+Set the amount in the limit $ for trigger override field
+Click add
+
+
+If the override is restricted to a specific state:
+Click the ellipsis (...) to edit advanced criteria
+double-click the merge field State, or enter the text [State]
+select an operator to define how the state restriction should apply: apply override to only a specific state (=), or do not apply override to a specific state (<>)
+type the 2-letter abbreviation for the state in single quotes
+if the restriction applies to multiple states: repeat the statement for each included state using "OR" (ex. [State] = 'MA' OR [State] = 'NY'), or repeat the statement for each excluded state using "AND" (ex. [State] <> 'MA' AND [State] <> 'NY')
+Click save
+Click add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I Search for a Person Type in darwin Cloud
+To search for a person in darwin Cloud follow these steps:
+Click the People menu
+Click search
+
+
+Select what person type you want to search from the drop-down list
+Type any part of the person's name (user may type in first or last name)
+Click search
+Click person's name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I add a Buyer or Seller
+To add a new buyer or seller into darwin Cloud, take the following steps:
+Fill out the person details:
+Click People menu
+Click new button to start adding a new buyer or seller
+Choose Buyer/Seller from the drop down list of person type
+
+
+Fill out the first name and last name
+Enter email address
+Select the type from the drop down list
+Enter phone number
+Click next up to Step 3
+
+
+From the address type drop down list select Mailing
+Fill out the address (street #, dir, street name, designation, suffix, suite/apt, build floor #, city state and zip) some fields are optional or as needed
+Click next to proceed
+
+
+Fill out the options field:
+Select  source from the drop down list
+Select  lead by from the drop down list
+Select division from the drop down list  
+Enter tax id (optional)
+Click add to save
+
+
+Enter additional info on these fields:
+Select the entity type  from the drop down list
+Fill out the birthday from the calendar icon
+Select gender from the drop down list
+Write in the general notes anything that will be useful to remember about the buyer
+Click save
+
+
+To add phone number:
+Click the + button next to phone numbers
+Select phone type, choose country code & enter phone number
+Click add to save another phone number
+
+
+To add addresses:
+Click + button next to addresses
+Select  address type from the drop down list
+Fill out the address and some of the field as needed (street number, direction , street name, street designation, suffix, app/suit number, floor number, city, state, zip country)
+Click add to save
+
+
+If the buyer and seller was came from a referral company:
+Click the magnifying glass button in referral company field to look for the referral company.
+
+
+Type name of the referral company
+Click search 
+Click the referral hyperlink
+
+
+Fill in the referral percentage by typing in the field.
+25% will be the referral charge of the company
+To assign the buyer or customer to an agent, click the magnifying glass button
+
+
+Write notes for referral notes box
+Click the save button after adding details in People basics
+
+
+
+
+
+
+
+
+
+
+
+
+How do I Add or Update Agent Data
+To add more data to an Agent profile, search for the agent you want to modify
+Click the People menu
+Click the search button
+
+
+Type some portion of the agent name
+Select Agent from the drop-down list to limit People types in the search results
+Click search
+Click the name of the agent
+
+
+Navigate to any submenu listed on the left side of the screen
+Modify or Add any data as needed
+Remember to always click save when done making all the changes required 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moving agents to another company in darwin (different franchise ID in dash)
+For customers that have chosen to break up their one dash franchise into multiple darwin companies. There may be times when a user needs to move an agent from an office in one company (Company A) to another company (Company B). These steps are for moving agents under a different franchise ID in dash.
+There are number of steps user will need to follow to make sure this goes smoothly.
+Terminate Agent in Company A
+Terminate the role in the office the agent is leaving and then hit submit.  This will remove the active roles in dash for this agent for the office they are leaving.  You are terminating the agent in dash since they are moving to a different franchise ID.
+Click People and search for the agent
+Click Agent Basics
+Click on the position field under positions
+Enter terminated date
+Click save
+Click submit
+
+
+Once you have successfully submitted the agent with the terminated role(s), then check the exclude box to prevent them from resending to dash and fill in the terminated date for the person
+Check the exclude box,
+Enter terminated date
+Click save
+
+
+Remove any agent MLS ID's from the People links page
+Click on the MLS ID of the agent
+Click delete
+
+
+Create a New Person record in the new company
+To create a new person type in darwin Cloud, take the following steps:
+Click the People menu
+Click the new button to start adding a new person type
+
+
+Person Details: Select person type and enter details according to requirements
+Select Agent as a person type from the drop-down list
+Fill in the first name, last name in the field
+Click next
+
+
+Select company from the drop-down list
+Select office from the drop-down list
+Click add
+
+
+User must fill in the information on the following submenus:
+Person basics
+People links
+Including the MLS IDs for all of their MLS'
+Agent Basics
+CHECK THE EXCLUDE BOX TO PREVENT THE AGENT FROM SENDING TO DASH WHILE WE ARE MAKING ADJUSTMENTS
+Web profile
+Commission
+Copy the guids from the People links tab from the Company A person to the Company B person
+User must have the Modify GUID role
+Click Security
+Click search
+Enter a part of the user name
+Click search
+Check Modify GUID
+Click save
+
+
+
+
+Copy the person guid, atguid, and the company staff guid from the Company A person to the Company B person from People links
+
+
+Upload the agent photo
+For instructions click here
+To submit the agent to the new office:
+Uncheck the exclude check box
+Click save
+Click submit 
+
+
+Submit the agent to the new office
+Copy the company staff guid from the person record in dash and add it in darwin
+Click save
+Click submit
+
+
+Moving the listings and pendings from Company A to Company B
+For the listings in Company A, withdraw the listings with a withdrawn date of today and add WD to the MLS #
+For the pendings in Company A:
+if they are going to close under Company A do nothing
+if they are moving to Company B, cancel the pendings, add CA to the MLS number and do not bring the listing back as a new active listing
+To get the listings and pendings into Company B:
+if there are only a few properties, use the pull and push from the dash board to pull them in as new records and confirm they pulled into the new company attached to the new agent record
+if there are many records, run or ask support@accounttech.com to run the feeds for these listings in full mode
+If there is any escrow being held for the Pending properties you will need to manually transfer it
+If there is any recoverable property expenses user will need to transfer that as well
+Commission Plans and history
+User will need to set up the commission plan on the new agent in Company B
+User will need to make sure they have the correct level and totals
+Agent Billing and Expense recovery
+User may need to manually transfer Agent billing info and expense recovery
+Other considerations
+If there are any overrides for recruiters or mentors or such, those may have to be transferred
+SkySlope Users
+If you are matching the agents by their PublicID in skyslope, user will need to update the PublicID in SkySlope with the new ATGuid
+
+
+
+
+
+
+
+
+
+
+
+
+
+Moving agents to another company in darwin (same franchise ID in dash)
+Updated on Apr 28, 2023
+For customers that have chosen to break up their one dash franchise into multiple darwin companies, the customer may have times when it needs to move an agent from an office in one company (Company A) to another company (Company B). These steps are for moving agents under the same franchise ID in dash.
+There are number of steps the customer will need to follow make sure this goes smoothly.
+Terminate Agent in Company A
+Click People
+Click Agent Basics
+Click on the position field under positions
+Enter terminated date
+Click save
+This record will not be send to dash.
+
+
+Remove any agent MLS IDs from the People links submenu
+Click on the MLS ID of the agent
+Click delete
+
+
+Create a New Person record in the new company
+To create a new person type in darwin Cloud, take the following steps:
+Click the People menu
+Click the new button to start adding a new person type
+
+
+Person Details: Select person type and enter details according to requirements
+Select Agent as a person type from the drop-down list
+Fill in the first name, last name in the field
+Click next
+
+
+Select company from the drop-down list
+Select office from the drop-down list
+Click add
+
+
+User must fill in the information on the following submenus:
+Person basics
+People links
+Including the MLS IDs for all of their MLS's
+Agent Basics
+CHECK THE EXCLUDE BOX TO PREVENT THE AGENT FROM SENDING TO DASH WHILE WE ARE MAKING ADJUSTMENTS
+Web profile
+Commission
+Copy the guids from the People links tab from the Company A person to the Company B person
+User must have the Modify GUID role
+Click Security
+Click search
+Enter a part of the user name
+Click search
+Check Modify GUID
+Click save
+
+
+
+
+Copy the person guid, atguid, and the company staff guid from the Company A person to the Company B person from People links sub menu
+
+
+Upload the agent photo in darwin Cloud
+Click Profile menu
+Click Web Profile
+Click the arrow up or the image field to upload photo
+Choose an image from the pop-up window
+Click Open
+
+
+
+
+To submit the agent to the new office:
+Click People menu
+Click Agent Basics submenu
+Uncheck the exclude check box
+Click save
+Click submit 
+
+
+Moving the listings and pendings from Company A to Company B
+For the listings in Company A, withdraw the listings with a withdrawn date of today and add WD to the MLS #
+For the pendings in Company A:
+if they are going to close under Company A do nothing
+if they are moving to Company B, cancel the pendings, add CA to the MLS number and do not bring the listing back as a new active listing
+To get the listings and pendings into Company B:
+if there are only a few properties, use the pull and push from the property page to pull them in as new records and confirm they pulled into the new company attached to the new agent record
+if there are many records, run or ask support@accounttech.com to run the feeds for these listings in full mode
+If there is any escrow being held for the Pending properties you will need to manually transfer it
+If there is any recoverable property expenses user will need to transfer that as well
+Commission Plans and history
+User will need to set up the commission plan on the new agent in Company B
+User will need to make sure they have the correct level and totals
+Agent Billing and Expense recovery
+User may need to manually transfer Agent billing info and expense recovery
+Other considerations
+If there are any overrides for recruiters or mentors or such, those may have to be transferred
+SkySlope Users
+If you are matching the agents by their PublicID in skyslope, user will need to update the PublicID in SkySlope with the new ATGuid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agent Teams
+Agent teams are setup in darwin Cloud for reporting purposes.
+User may also need Agent teams to be setup with the franchise. Log into the franchise website to setup the Agent teams.  darwin Cloud can deliver Agents to the franchise, but user need to log into the franchise website to link Agent's together as a team.
+To add Agents to a team in darwin Cloud, user first need to create the team in darwin Cloud. Once a team has been created, user can add any Agent to any team.
+To setup a new Agent team
+Click Dropdowns menu
+Click People sub menu
+On the right side of the screen click: Agent Teams
+Click new
+Enter team name
+Click save
+
+
+Once the Teams are setup, user can add any Agent to any team.
+Click People menu
+Click search to find the agent
+Click Agent Basics sub menu
+Select an agent team from the dropdown list
+Click save
+
+
+
+
+
+
+
+
+
+
+
+How do I Terminate an Agent
+To terminate an agent in darwin Cloud
+Click the People menu
+Click the search button to search an agent you need to terminate
+
+
+Type some portion of the agent name
+Select Agent from the drop-down list to limit People types in the search results
+Click search
+Click the name of the agent
+
+
+Click Agent Basics sub menu on the left to switch screens
+Fill in the terminated date by typing in the field or selecting it in the calendar from the dropdown menu
+After entering the terminated date, active box will be unchecked
+
+
+Terminate agent on the Agent Basics sub menu
+Click the position of the agent
+Fill in the terminated date by typing in the field or selecting it in the calendar from the drop-down menu
+Click the save button from the pop up window
+Click save from the Agent Basics submenu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Adding Agent Photos in darwin Cloud
+To add agent photos in darwin Cloud user may follow the steps below:
+Search for the agent
+Click the People menu
+Click the search button
+Type some portion of the agent name
+Select Agent from the drop-down list to limit People types in the search results
+Click search
+Click the name of the agent
+
+
+
+
+Upload the agent photo in darwin Cloud
+Click Web Profile
+Click the arrow up or the image field to upload photo
+Choose a photo from the pop-up window
+Click Open
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How Do I Add a Person to a Contact Group
+Create a Contact Group
+To add an agent to a new contact group, the contact group must first be created:
+Click Dropdowns
+Click People submenu
+Click Contact group
+Click the text click here to add a new row and type the contact type name
+Click save
+
+
+Add a Person to a Contact Group
+To add a person to an existing contact group:
+Click People and navigate to the person's profile
+Click People links sub menu
+Click the "+" button next to contact groups
+Select contact group from the drop down list
+Click Add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I Create Suppliers/Vendors
+Creating a New Suppliers/Vendors
+To add a supplier or vendor:
+Click the People
+Click People basics submenu
+Click the new button to start adding a supplier
+
+
+Required Fields
+When a new supplier/vendor is created, the user must fill in the required fields:
+Select the person type (supplier/vendor) from the drop-down menu.
+Fill in the first name, last name (or company name if the supplier is a company and not a person) on the field
+Enter the email address
+attn if any
+Enter the phone number
+and type of number
+Click the next button
+
+
+Optional items
+Select a company if purchases from this supplier are always charged to one of your companies
+Select office if purchases from this supplier are always charged to one of your offices
+Select account if purchases from this supplier are always charged to the same GL account
+Click the next button
+
+
+Choose the address type and fill in the address fields
+Click the next button
+
+
+Click the next button
+choose the source
+Choose the lead by
+choose the division
+Enter the tax id
+Click add button when done
+
+
+Adding contact information is not required, but is useful for contacting suppliers, mailing checks, and sending 1099s. Set address type as mailing if the address should print on checks.
+You can also add new phone number
+Click the + button next to phone numbers
+Choose the phone type from the dropdown list
+Enter the phone number, type the number on the right 
+The number will be formatted as user type
+Enter phone extension
+Click add button when done
+
+
+Other General Information
+Click People links submenu to add additional details
+Select the terms to be used
+Type your account number with this supplier
+Select the 1099 type
+Check the box if the supplier needs to get 1099 ?
+Click the save button when done
+If the 1099 Tax ID is left blank, the software will automatically prompt the user to complete tax documentation for the supplier at the end of the year to prevent oversights.  If the supplier does not require a 1099, type "N/A" or "not needed" into the field
+
+
+Other fields on the screen are optional, but can be used to store information the helps with adding bills from Vendors. 
+Options include:
+default account:  Select the gl account usually used for bills from this supplier
+office: Select the office usually to be billed for purchases from this supplier
+Entering information such as office and account on the supplier's profile will allow the software to automatically provide this information when the user enters bills for the supplier
+How to Set up Person Custom Field
+Setting up people custom field:
+Click Settings
+Click Setup sub menu
+Click application settings
+Select Person custom fields from ~ All sections
+Under value click and input the name of your custom field
+Click save
+
+
+Use the Person custom field:
+Click People menu
+Click search to search person
+Type in the name of the person
+Click search
+Click specific person name
+
+
+
+
+Click Custom fields sub menu
+Fill out the custom fields
+Click save
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agent License Status Warnings
+When user is working with a property in darwin Cloud, there is an easy way to see when some agents license is expired.
+This wasn't possible in darwin Citrix. But, in darwin Cloud, there's a setting you can change and it changes the display on screens throughout the software. Now, when some agent's license is out of date, user will see the warning right on the screen.
+There may be many different license types to track. Some of the licenses (like drivers license) may not be so important. But other licenses, like their real estate license, are critical. And it may be illegal in your state to issue a commission check to an agent with an expired license.
+So with darwin Cloud, no matter how many licenses you are tracking on each agent and broker, you can set which licenses are most important for the closing staff to monitor. Then, as they work, darwin Cloud will notify them every time they are working with a file that includes an agent with an expired license.
+To change the settings in darwin Cloud of which expired licenses to monitor
+Click Dropdowns menu
+Click People submenu
+Click License type from the right side of the screen
+Check the box/es which expired licenses to be monitored
+Click save after the modification
+
+
+Agents with expired licenses will be shown in orange font color.
+
+
+
+
+To check the expiration date of the agent's license
+Click People
+Use the search button to locate the agent
+Click Agent Basics
+Under license section, see date under expire
+
+
+To modify agent's license expiration date
+Click People
+Use the search button to locate the agent
+Click Agent Basics
+Under license section, click on empty field to open new window
+Change expiration date by typing or by using the calendar button
+Click save
+
+
+Notice that after changing the license expiration to a future date, and refreshing the agent profile, agent's name will turn back to blue font.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I Set Up Inter-Company Billing
+When there is more than one company using darwin Cloud, setting up inter-Company billing is set up following these steps
+Click People menu
+Click People basics submenu
+Click new
+Select person type Prop Management (Property Management)
+Click select
+
+
+Check the box inter-company
+Type a company name that will represent inter-company billing
+Click next
+
+
+Choose the company from the dropdown that will represent inter-company billing
+Click next
+
+
+User can fill in the necessary information for address
+Options 3 & 4 are optional
+User can skip this step by clicking the next button
+Click add button to finish
+
+
+
+
+Once Inter-Company billing is added in People menu, this is automatically set up in Inter-Company settings.
+Go to Settings menu
+Click Setup submenu
+Click application settings tab
+Find and click Inter-Company in All sections
+Under description column is the Inter-Company added in People menu
+
+
+
+
+How Do I Display Payee Address on Checks?
+There are two settings that determine whether the address is pulled by the merge field:
+address type - must be Mailing
+this is next mailing address - address will NOT print if this box is checked
+
+
+To add or review a payee's mailing address:
+Go to People
+Go to People basics
+To add an address, click the plus (+) button
+To edit an existing address, click the address
+Set address type to Mailing
+Ensure "this is next mailing address" is not checked
+Click save
+
+
+Contacts can have only one address of each address type on their profile. If the contact already has an address of type Mailing, the address type of the existing record must be changed before a different address of type Mailing can be added.
+Setup Required on Checks
+There are five address merge fields available for check layout to allow users flexibility in the way the address displays on the check.
+Each merge field includes one or more lines of the address.  See image below as a reference for the text included in address lines 1, 2, and 3.
+
+
+ 
+Option 1: {PayeeFullAddressFormatted}
+This merge field includes all text from all three lines of the payee's mailing address, and displays it in a conventional format.  
+Note: Because this merge field dynamically expands to include two or three rows of text as needed, make sure to size the merge field correctly when adding it to a check layout. A field height of at least 75 is recommended to accommodate addresses with an apt/suite or floor number.
+
+
+
+
+Option 2: {payeeStreetAddressWithAptFloor} + {payeeCityStateZip}
+The  {payeeStreetAddressWithAptFloor} merge field includes all fields from the first two lines of the payee's street address, including any apartment or floor details.  This merge field displays the text as one line to save space.
+The {payeeCityStateZip} merge field includes the city, state, and zip code of the payee's mailing address
+
+
+
+
+Option 3: {payeeStreetAddress} + {payeeAptNumFloorNum} + {payeeCityStateZip}
+In this setup, the Payee Address is broken into three separate merge fields on check templates:
+{payeeStreetAddress} - displays the fields street number, direction, street name, street designation and suffix
+{payeeAptNumFloorNum} - displays text entered in the fields apt/suite number and floor number
+{payeeCityStateZip} - displays the fields city, state, and zip
+
+
+
+
+The merge fields that include the second line of the address display only the text typed into the "apt/suite number" and "floor number" fields for the payee's address. To display "Apt 3" or "Suite 15," make sure to type the full designation and not only the number.
+This affects the fields {payeeAptNumFloorNum}, {payeeStreetAddressWithAptFloor}, and {PayeeFullAddressFormatted}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I Enter Suppliers
+Creating a New Supplier
+To add a supplier or vendor
+Click the People menu
+Click the new button to start adding a supplier
+
+
+Required Fields
+To add a new supplier, user must fill out the person details
+Select Supplier from the person type drop-down list
+Click select
+
+
+Fill out the first name, last name in the field
+Type in the company name (if the supplier is a company and not a person)
+Select type from the drop-down list
+Add phone number 
+adding contact information is not required, but is useful for contacting suppliers, mailing checks, and sending 1099's
+Click next to continue in filling out
+
+
+Company and Office
+Select company from drop-down list
+Select office from drop-down list
+Click next
+
+
+User can add the supplier's address in the field provided.
+Select address type from the drop-down list
+Fill out address field
+street #
+street name
+city, state
+zip
+Click next to proceed
+ 
+
+
+options
+Click add to save all the details
+
+
+Other General Information
+Click People menu
+Click People links submenu to add additional details
+Type in the Tax ID number (it can be hidden by clicking the lock icon)
+Select 1099 type from the drop-down list
+Check the box if the supplier gets 1099 ?
+Select the terms to be used from the drop down list
+Type in the account number 
+Click save
+If the 1099 Tax ID is left blank, the software will automatically prompt the user to complete tax documentation for the supplier at the end of the year to prevent oversights.  If the supplier does not require a 1099, type "N/A" or "not needed" into the field
+
+
+Other fields on the screen are optional, but can be used to store information the helps with adding bills from Vendors. 
+Options include:
+default account:  Select the gl account usually used for bills from this supplier
+office Select the office usually to be billed for purchases from this supplier
+Entering information such as office and account on the supplier's profile will allow the software to automatically provide this information when the user enters bills for the supplier
+
+
+Setting Up Referral Company Information
+Setting up Referral company information is just like setting up any Supplier.
+For Referral companies there are 2 specialized fields that you should fill in for referral companies:
+Referral brand
+Referral network
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Posting Validation Error Message: The job code field of the invoice detail is required for all records
+
+
+Posting validation: The job code field of the invoice detail is required for all records.
+Follow the steps below on how to fix it:
+Check the invoice preview
+Click the $ amount next to Invoice order total
+Review and check the office/agent column
+
+
+Check if agent is assigned a job code
+Click Dropdowns menu
+Click People
+Click People job codes
+Enter information on the fields to search if the agent is assigned the job code
+description is agent's name
+company the agent is assigned to
+office the agent is assigned to
+select INCOME and EXPENSE type
+Click search
+NOTE: If the agent name does not appear on the list that means the agent is missing the expense and income job codes.
+
+
+Fix the people record
+Click  People menu
+Click search
+Enter agent's name
+Click search
+Double click the agent's name
+
+
+Click People links
+Switch agent's office
+Click save
+Switch agent back to the correct office
+Click save
+
+
+
+
+Check the agent's expense and income job code in Dropdown > People
+
+
+Confirm the invoice order on the transaction is not missing agent job codes, and Post
+ 
+Click Properties and pull up the property record
+Click Post
+Click the $ amount next to Invoice order total
+Confirm office/agent job code is filled in
+Close the invoice preview
+Click post
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a custom total to a report
+Adding a custom total to a report is as easy as 1 -2 -3.
+Create a custom total that you want to use on reports
+Add your new custom total to all Agent profiles
+Select your custom total when you are choosing columns to show on a report
+Create a custom total for a report
+In darwin Cloud, you can create up to 6 custom totals for use in reports.  To get started:
+Choose Formulas menu  
+Click the Totals submenu 
+Click the new button to begin creating your custom report total 
+Here are the important things to remember when creating a custom report total:
+In the add total tracking value screen:
+Give the total a name that is short enough that it will look good as a column header on reports
+Choose the total type: person
+Select enable on both the list side and the sell side (in most cases)
+Click start to build the formula to calculate the custom report total
+
+
+In Totals submenu:
+Add a formula on both the list & sell side (what $ amount + what $ amount = custom report total)
+Set the within dates for the total on both the list & sell side
+Choose a report id from the dropdown list
+Click save
+
+
+Add your new custom total to all Agent profiles
+In the People screen, navigate to any Agent profile. Select the commission submenu.
+Add tracking totals by clicking plus (+) button
+Select the tracking total from the list
+Click add
+Select save for all agents
+Click save
+Once user added the total to all agents, this total will be recalculated every time the agent has a closing. For testing purposes user may want to select a few top producing agents and manually refresh their totals. Important: the totals added to agent profiles and refreshed (either manually or by an Agent closing) are the only totals that will appear on your reports
+
+
+
+
+Select your custom total when running a report
+When you run your report, under the available columns look for the Custom Totals and select the name of the total that needs to show on the report.
+Note that the custom totals will not show the data for each agent if it was just added. If you would like the totals to show the data on the report, manually run the rep cubes with full update or wait until the next day as darwin Cloud does an automatic update on rep cubes every midnight.
+
+
+When your report appears, the name that you gave to the Total will appear as a column header in your report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Give Team Leaders Permission to View Team Member Production
+When Team Leaders need access to the production numbers of their Team Members, these permissions can be set up in darwin Cloud and will allow expanded access to specific reports in the sytem.
+Team Leader Setup
+To set up an agent as Team Leader, determine their darwin Cloud person ID:
+Click People
+Search for the agent using the magnifying glass. Click here for instructions on How to Search for an Agent
+Locate the person id below the agent's name
+
+
+Once the Team Leader's person id is known:
+Click Dropdowns menu
+Click People submenu
+Click Agent Teams
+Enter team leader id then hit tab to exit the edited row
+Click save
+
+
+Team Leader Access
+For most darwin Cloud users with Agent permissions, reports will automatically filter by Agent to exclude information and production data associated with other agents. When a user with Agent permissions are set up as a Team Leader, this allows the user to view reports filtered by Team instead of by Agent.
+This expanded access is currently available for the report Closings by Agent, and can be added to additional reports upon request (pending approval by AccountTECH's programming team).  To submit a request, please email support@accounttech.com.
+
+How do I Terminate an Employee
+To terminate an employee in darwin Cloud:
+Click the People menu
+Click the search button to search an employee you need to terminate
+
+
+Type some portion of the employee name
+Select Employee from the drop-down list to limit People types in the search results
+Click search
+Click the name of the employee
+
+
+Terminate employee on the Agent Basics sub menu
+Click Agent Basics submenu
+Click the position of the employee
+Fill in the terminated date by typing in the field or selecting it in the calendar from the drop-down menu
+Select terminate reason from the drop down list
+Click save
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How do I Search for an Employee
+To search for an employee in darwin Cloud
+Click the People menu
+Click search
+
+
+Type some portion of the agent name
+Select Employee from the drop-down list to limit People types in the search results
+Click search
+Click the name of the employee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Add a New Employee
+To add a new agent darwin Cloud, take the following steps:
+Click the People menu
+Click the new button to start adding a employee
+
+
+Person Details: Select person type and enter details according to requirements
+Fill in the first name, last name in the field
+Select the company name from the drop-down list
+Enter email address (this information can be skipped and can be filled in once the employee profile is open)
+Choose phone type from the drop-down list
+Enter phone number (this information can be skipped and can be filled in once the employee profile is open)
+Click the next button
+
+
+To add more phone numbers, just click the plus (+) button from the People basics screen and repeat the steps.
+Office: Select company and office
+Select company from the drop-down list
+Select office from the drop-down list
+Click the next button
+
+
+Address: Select address type and enter required fields
+Select address type from the drop-down list
+Enter street #, street name, designation
+Enter zip to automatically populate city and state
+user may also use the magnifying glass to search
+Click the next button
+
+
+Click add
+
+
+To add a multiple addresses, just click the plus (+) button from the People basics screen and repeat the steps.  Please note that only addresses with the type mailing will be printed on checks and correspondences.
+
+
+People links
+Adding details in People links are not required. But, you may add details also by doing the following steps:
+Click People links
+Enter the Tax ID of the employee
+user needs 1099 Tax ID role to enter information
+Select what 1099 type the employee gets from the drop-down list
+Check the box that the employee gets 1099
+Check the box full time
+Click the save button when done adding details in People links
+
+
+Agent Basics
+Click Agent basics
+To add a position, click the plus (+) button next to positions
+Select a position from the drop down list
+Enter start date or click the calendar button to select the date
+Click add
+
+
+If the employee has different jobs into different offices of the company, just click the + symbol and repeat the steps. You should add every position of the employee in each office.
+Recommended:
+Check the active box
+Enter start date or click the calendar button to select the date
+Click save
+
+
+
+
+
+
+How Do I Change an Employee to an Agent?
+When an employee becomes an agent, instead of creating a new record, the existing record can be updated to reflect the new role:
+Navigate to the employee's profile;
+Click People menu
+Click search to locate the employee profile
+Click Agent basics
+Click the plus (+) button next to positions
+Select a position Sales Associate from the dropdown list
+Select an office
+Enter start date
+Click add
+
+
+When prompted, do you want to give this employee a sales agent position?
+Click Yes
+
+
+After the system processes the update, the following two changes will occur:
+The type associated with the record will be updated to Agent
+All sub menus on the left side of the screen will become available to edit (depending on the access settings enabled for the user login credentials)
+
+
+
+
+
+
+
+
+
+
+
+
+
+1099 Agents (and Vendors) Setup and required fields
+All 1099 setup information for Agents and Vendors can be done under the People > People basics and People links.
+It is important to note that while only the checkbox gets 1099? is required to calculate and print a 1099 for an agent or vendor, additional information is needed to ensure that the 1099 is complete and will be accepted by the government.
+Fields required to generate 1099:
+gets 1099?
+Fields required to submit 1099 for tax purposes:
+Name
+Mailing Address
+Tax ID (for vendors)
+Personal Tax ID or Corporate Tax ID (for agents)
+1099 Type
+gets 1099?
+In order for 1099's to generate correctly, the company must also be set up correctly.  To confirm that this has been done, please refer to the article 1099 Setup and required fields for Company
+Verify Agent Mailing address
+Agent contact information is located on the People basics submenu. For agents and vendors receiving a 1099 under their given name:
+Confirm first name
+Confirm last name
+Confirm address is correct, and that address type is mailing
+
+
+For agents using a corporate name for 1099 purposes, the name to be used for 1099's should be entered in the corporate name field
+Enter 1099 name in corporate name field
+Check use corporate name checkbox
+Click save
+
+
+If the address type is not set to Mailing, the address will not print on the 1099 document.  To change the address type:
+Click the address to be updated
+Select Mailing from the address type dropdown
+Click save
+
+
+Fill in Required 1099 Information and Settings
+To ensure the 1099 is generated correctly, kindly check the following required fields that need to be filled out on the People links tab of each agent or vendor's profile: 
+1099 type
+gets 1099 ?
+
+
+The checkbox for gets 1099 ? is required for producing a 1099.  All agents and vendors that do not have this checkbox checked off will be excluded from 1099 calculations and printing.
+Enter Personal Tax ID or Corporate Tax ID
+While there is only one tax ID type available for vendors, agents may use either the personal tax ID or corporate tax ID field.
+For agents not using a corporate name for taxes, the personal tax ID field must be filled in.
+For agents who use a corporate name for taxes, the corporate tax ID field must be filled in.
+If using the corporate tax ID, the incorporation date should be filled in
+The dissolution date can be used if an agent reverts from using their corporate tax ID to their personal tax ID
+
+
+How does darwin Cloud determine which tax ID to apply to vouchers?
+The personal tax ID field is used for all agents who do not use a corporate name.
+The corporate tax ID field is an option for agents who use a corporate name.  If it is left blank, darwin Cloud will default to using the personal tax ID (if filled in).  This optional field was designed to allow users to easily split an agent's earnings between a personal and corporate 1099 based on the date on which the agent Incorporated or disincorporated.  The corporate tax ID will be applied to vouchers that are dated between the incorporation date and the  dissolution date (if applicable).
+The incorporation date indicates the date from which the agents earnings should be taxed under their corporate tax ID.
+The dissolution date date indicates the date after which the agents earnings should be taxed under their personal tax ID.
+For agents who use a corporate name for taxes, if the personal tax ID field is filled in and the corporate tax ID field is blank, darwin Cloud will automatically default to using the personal tax ID when generating 1099's
+Please note that if an agent is NOT using a corporate name but the profile includes only a corporate tax ID, a 1099 will not be generated for the individual in order to prevent incorrect tax reporting.
+Tax ID Security Settings and Access
+When you enter the tax id value, it is displayed as ***-**-****. For security reasons, the 1099 value is hidden from most users.  Only darwin Cloud users with special 1099 security clearance are allowed to view the tax ID.
+For users with the role 1099 Tax ID:
+Click the lock icon to view or edit the tax id field
+
+
+To grant users access to the tax ID field:
+Click Security
+Click Manage Users
+Search for the user
+a new window will appear, enter the username to locate
+Check the box for 1099 TaxID
+Click save
+
+How do I Add Agent MLS ID
+To add the agent MLSID in person/agent's profile in darwin Cloud:
+Anywhere Real Estate, Inc., formerly Realogy, brand customers, need to review the "Submit as" Association/MLS.  This value is what is used to the MoxiWorks Integration.  For most feeds this will be populated automatically with a default value but for Customers in regional MLSes like MichRIC, you may need to select the association of which the agent is a member.  Also for some feed aggregators like Trestle,  we get multiple mls' tied to that one feed and user will need to select the association.
+Click the People menu
+Click search
+
+
+Type some portion of the agent name
+Select Agent from the drop-down list to limit People types in the search results
+Click search
+Click the agent's name
+
+
+Click People links
+Click the + button next to MLS ID
+Select MLS source from the dropdown list (feed type)
+Select MLS source from the dropdown list (source)
+Enter MLS ID
+Click add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Submitting a Closing to an Office Other than the Agent's Office
+When ready to submit the property to dash:
+Click Properties
+Click Agents
+Click on the agent's name (hyperlink)
+
+
+Click People links
+Choose the office that the user wants closing to submit to dash/epay
+Click save
+
+
+Click the Agent basics tab, Check the Exclude box and hit save
+Click Agent Basics
+Check the exclude box
+Click save
+Checking the exclude box will prevent the agent record from submitting to dash if there is a scheduled submission while user is preparing the manual submission of the property.  
+
+
+Click Properties menu to go back to the property information
+Click submit
+
+
+Confirm the closing has sent to the correct office
+Click Submission
+Scroll to the right to get to the get data sent button and click it
+Scroll to the top of the review JSON screen and note the officeId number
+
+
+Confirm the darwin Cloud office id
+Click Company menu
+Click Office submenu
+Choose the company from the dropdown list
+Choose the office
+Confirm that the office id is the correct one
+
+
+If user have additional closings for the agent, user can submit each of their closings.
+Once done submitting the closing to the alternative office, return the agent to the office one that they should be listed
+Click People
+Click People links
+Choose the office from the dropdown list
+Click save
+
+
+Click Agent Basics
+Uncheck the exclude box
+Click save
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Rule Violation(s) has occurred.::Maximum media count is reached for media category Key:31,Code:5,Description:Person Photo. Maximum supported media count for this category is 1
+
+
+Cause:
+This error occurs when there are more than one photo attached to the agent record and reached the maximum media count. It should be one photo per agent.
+This will only happen if the photo has been added manually by user and added by feed.
+Fix:
+Remove the agent's photo in darwin Cloud:
+Po to People menu
+Click search button
+
+
+Type the portion of the agent's name
+Click search
+Click the agent's name to open profile
+
+
+Click Web Profile submenu
+Click the delete button above the photo
+Click submit
+
+
+
+
+
+
+
+
+Setting up Graduated Scale Commission Plan for Agents with Special Deal
+There are many cases where users have a graduated scale that is used to determine the commission split on an agent profile, but some agents have a "special deal".  The typical use case is this:
+A graduated scale "resets" at some low split then moves up (like 50/50 and potentially advances to 90/10).
+Upon reset, the user want a certain agent to NOT roll all the way back to 50/50 but the agent should never take more than 70/30
+Set Up the Graduated Scale template
+Set up the deduction rule for the Graduated scale
+Set up the Agent's Commission Profile
+I. Set up the Graduated scale template
+Click Formulas menu
+Click Scales submenu
+Click new
+Enter the name of the scale template
+Click save
+
+
+Enter the min amount
+Enter the max amount
+Enter the fixed amount (if applicable)
+Enter the percentage
+Click '+' button to add another line to the scale
+Click save
+
+
+II. Set up the deduction rule for the Graduated scale
+Click Formulas menu
+Click Deduction rules submenu
+Select Company $
+Click new
+
+
+Enter the name of the deduction rule
+Select the deduction from the dropdown menu
+Click Next
+
+
+Select the commission plan from the dropdown menu
+Click Next
+The user could also select the agent commission subplan (if applicable to the deduction rule) from the dropdown menu.
+If there is no commission subplan assigned to an agent, the user may skip step 3: apply this formula for properties with the following commission plans and proceed directly to the step 4: apply this formula for properties with this classification.
+
+
+Select the transactions types from the dropdown menu
+Select the accounting code from the dropdown menu
+Click Next
+
+
+Select the whether this deduction should be applying to agent or office generated transaction
+Select the seller source (list) from the dropdown menu
+Select the buyer source (sell) from the dropdown menu
+Click Next
+
+
+Select the office to which this formula will be applied
+Click Next
+
+
+Select the side to which this formula will be applied
+Click Next
+If the user selected list side from the dropdown menu, make sure the seller source is filled in.
+If the user selected sell side from the dropdown menu, make sure the buyer source is filled in.
+If the user selected ALL from the dropdown menu, both buyer and seller source should be filled in.
+
+
+Add the additional criteria by clicking the '...' ellipsis button
+Click Next
+
+
+Select the formula type
+Click Next
+
+
+Select the based on (total) from the dropdown menu
+Select the scale template from the scale to use dropdown menu
+Click the '...' ellipsis button to set up the formula
+Click Next
+
+
+Select the cap deduction based on (if applicable)
+Enter the fixed amount or percentage to charge after the CAP has been reached
+Click Next
+
+
+Review the deduction rule information
+Click Save
+
+
+III. Set up the Agent's Commission Profile
+Click People menu
+Click Commission submenu
+On the grid, enter the "not more than" percentage on the pct column
+In this way, the Agent will never have a split lower than the % on their profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Add Same Referral Company in Property
+When adding same referral company in a property, add referral list - information will pop as a validation that the Referral has been already added:
+
+
+However, there are situations where user will have to add two Referrals with the same corporate name for accounting purposes.
+To add same referral company in property, the following steps should be used:
+Add the same referral with the same corporate name in People menu
+Click People menu
+Click new button
+Choose Referral from person type dropdown list
+Enter first name and last name
+Click add button
+
+
+Enter the same corporate name
+Check the box to use corporate name (for accounting records)
+Click save
+
+
+Add the Referral in the property
+Click Property menu
+Locate for the pending property using the search button
+Click Commission submenu
+Click + button to add Referral
+Click magnifying glass to search
+
+
+Click  show advanced filter options
+Enter the corporate name and it will show the two referrals
+Click the first referral to add
+Click add
+
+
+
+
+Repeat the process from Step 4, this time choose the second referral.
+
+
+After posting the transaction
+Click Bills menu
+Click Pay Bills submenu
+Choose company from the dropdown list
+
+
+Filter the result by typing in referral name
+Or filter by typing a portion of the associated property address
+darwin Cloud user can write the check for each or both Referral vouchers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1099 Someone Not on the Books
+There are some cases where users need to give 1099 to someone who is not added in darwin Cloud. One good example is if a user paid their supplier in cash for doing some work and the supplier needs to get a 1099 for it.
+To 1099 someone who is not in the books:
+Go to People menu
+Click the new button
+Select the person type
+Enter the first name and last name
+Click add
+
+
+Make sure that this person record has a mailing address.
+To add the mailing address:
+Click the + button next to addresses
+On the dropdown menu, select Mailing as the address type
+Enter the address details
+Click add
+
+
+If the address type is not set to Mailing, the address will not print on the 1099 document.
+Fill in the required 1099 information:
+Go to People links submenu
+Check the box next to gets 1099 ?
+Select the 1099 type
+Enter the Tax ID
+Click save
+
+
+Add the person record in the 1099 batch reconciliation:
+Go to Ledger menu
+Go to 1099 submenu
+Click open
+Select the company
+Select the year
+Select the 1099 batch
+
+
+On the 1099 batch reconciliation screen:
+Click the + button
+Click the magnifying glass to search for the person record
+
+
+Enter a portion of the name
+Click search
+Click on the name hyperlink
+
+
+Enter the 1099 amount
+Click add
+
+
+To verify if the person record is already added in the 1099 batch reconciliation:
+Click the column header to sort the list or;
+Filter the list by the typing the name of the person record
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(EX) This person is excluded from submission
+Updated on Jul 24, 2023
+
+
+Cause:
+This error occurs when "exclude" is checked in person's profile.
+Fix:
+Go to People
+Use the search button to locate the agent
+Go to Agent basics
+Uncheck the box next to exclude
+Click save
+Click submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One of this fields is missing: PrimaryPhoneNumber, ProviderIdentifier
+Cause:
+This error occurs when the person's phone number is missing in the record.
+The person's phone number is one of the required fields that needs to be filled in before submitting the record to Dash.
+Fix:
+Click People
+Click the People basics
+Click plus button (+) button next to phone numbers
+Select phone type and country code
+Enter phone number
+Click save
+Click submit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Business Rule Violation(s) has occurred. :Can not add multiple sales roles for same office.
+Cause:
+This error occurs when there are active positions in Dash for a person record that are not reflected in darwin Cloud.
+To fix
+Reach out to Dash and review their roles.
+Terminate these duplicate roles on the Dash side in order to resolve this error.
+Update the information in Dash and resubmit the person record
+Click the People menu
+Click the search button
+
+
+Type some portion of the agent name
+Click search
+Click the agent's name
+
+
+Submit the property to Dash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Error getting data for submitID
+
+
+Cause
+This error occurs when an active property record does not have listing agent associated in darwin Cloud.
+To fix
+An agent record should have an agentMLSID added to their profile in darwin Cloud to link the agent profile to a property record.
+Click People menu
+Use the search button to find the agent
+Click People links submenu
+Click + button next to MLSID
+Select MLS source
+Enter the MLSID
+Click add
+
+
+Then refresh the property record to import the agent from the feed.
+Go to Properties
+Click the search button to find the property
+Click Basics submenu
+Click refresh
+Select feed name
+The listingID will fill in automatically
+Click Pull
+Once the propertyID has been updated successfully, click close.
+
+
+
+
+
+People Links error: You must enter a valid corporate tax ID
+This error occurs due to the recent improvements made on darwin Cloud which enables the users to add the Corporate/Business/LLC Tax ID numbers to a certain agent which differs from their individual Tax ID/SSN.
+Cause
+The Corporate Name and checkbox for "use corporate name" is filled in or checked. If those fields are completed, the Corporate tax ID, corporation start and corporation end date must also be completely filled.
+To Fix:
+Click People menu
+Click People basics submenu
+Locate the person name by using the search button
+Check off the box next to use corporate name
+Click save
+
+
+Click People links
+Enter corporate tax ID
+Enter corporation start
+Enter corporation end
+Click save
+
+
+
+
+
+
+
+
+
+
+
+
+No or Invalid Agents Sent
+Causes:
+There are a few factors that can cause this issue.  The main causes are:
+List agent is missing on a listing (or list side of in-house transaction), or the sell agent is missing on a sale transaction (or sell side of an in-house transaction)
+The transaction is flagged as in-house when it is only a one-sided deal
+One or more agents on the deal are in Terminated status, or are missing a sales role
+Scenario 1: List agent or Sell agent missing from one-side or in-house transaction
+This error is quick to fix for a single transaction, but because it is usually caused by an error in the agent's setup, it is worth taking a few extra minutes to follow the steps in the prevention section as well.
+To fix the error:
+Click Properties menu
+Click search
+a new window will appear, fill in accordingly
+Click none hyperlink to add missing agent
+Confirm the list agent (or sell agent), depending on the appropriate side
+a new window will appear, fill in accordingly
+Click save
+Click submit
+
+
+Prevention
+The first step in preventing this error is confirming the source of the transaction - MLS, or manual addition.
+Click History
+Scroll to the bottom of the page
+Find the change type, New property
+Check if modified by is dwinner
+Note: dwinner indicates an update made by one of AccountTECH's feeds
+
+
+For transactions imported from MLS, the underlying cause for missing list or sell agents is generally a missing or incorrect MLS ID on the agent's profile. 
+To add a missing MLS ID:
+Click People menu
+Click search
+a new window will appear, fill in accordingly
+Click People links
+Click + to add a new MLS ID
+Select MLS type source
+Select the subtype
+Enter MLS ID
+Click add
+
+
+To edit an incorrect MLS ID:
+Click People menu
+Click search
+a new window will appear, fill in accordingly
+Click People links
+Click the MLS ID to be be modified
+Confirm or fix MLS source
+Click save
+
+
+Additional Considerations:
+For companies with multiple integrations set up (ex. SkySlope, DotLoop, etc.), there may be other feeds that need to be reviewed.  If the agent's MLS ID is correct and the error is occurring in another feed, please contact support@accounttech.com for further assistance.
+Scenario 2: The transaction is flagged as in-house when it is only a one-sided deal
+Fix:
+A transaction is classified as In-House when both the list agent and sell agent boxes on the Property Basics screen are checked.  If the box for the list or sell side is checked and no agent name is supplied, this can cause a submission error.
+Click Properties menu
+Click search
+a new window will appear, fill in accordingly
+Click Agents submenu
+Click on the empty field next to agent's name to be deleted
+Click delete
+
+
+Prevention:
+The most common cause for this error is the Cancel settings on the Settings > Settings screen.  By default, no information from the buyer side of a transaction should be copied to a re-activated listing.  However, because the settings can be customized, there are configurations that will copy the sell agent flag to the new record when the transaction is reactivated.  This can occur during auto-cancel (when a transaction is updated from Pending to Active in MLS), or when a transaction is manually cancelled.
+To adjust the settings:
+Click Settings menu
+Click Setup submenu
+Click application settings tab
+Select the section Cancel property
+Locate Fields to copy from property, click select items...
+Scroll to ourSell, and deselect the checkbox
+Click ok
+Click save
+
+
+Additional Considerations:
+The steps above will prevent the Sell Agent checkbox from populating when an in-house transaction has been reactivated.  If other buyer side fields are also set to copy on reactivated transactions, deselecting those items from the Cancel property settings will prevent them from copying going forward.
+Other items to review include sellingPrice, sellCommission, and sellCommRate.
+Scenario 3: One or more agents on the deal are in Terminated status, or missing a sales role
+Terminated Agents:
+Since transactions can only submit successfully if all agents on the deal are active, any agents who are no longer active with the company must be temporarily restored to status active before the transaction will submit successfully.  Terminated agents will display as red on property records.
+Missing Sales Role:
+Only transactions with an active Sales Role, (such as Sales Associate), can be submitted successfully on property records.  Agents with missing sales roles will not appear differently on the property record, but can be identified when their profile is reviewed.
+To fix errors caused by an agent's status or roles:
+Click Properties menu
+Click search
+a new window will appear, fill in accordingly
+Click Agents submenu
+Click agent's name to jump to the agent's profile
+Note: Terminated agents will display in red, making them easy to identify
+
+
+For Terminated Agents:
+On the agent's profile:
+Click Agent basics
+Check the active checkbox
+Remove terminated date from profile
+Click the position
+Remove terminated date from position
+Click save on position window
+Click save on profile
+Click submit
+
+
+For agents missing active sales roles:
+On agent's profile:
+Click Agent Basics
+note that several of the agent tabs below are grayed out - this indicates that the profile is classified as an Employee rather than an Agent
+Click the plus (+) button next to positions to add an active sales role
+Select the role Sales Associate
+Select the office
+Enter start date
+Click add
+Click submit
+
+
+After the agent(s) on the deal have been reviewed and corrected as needed:
+Click Properties
+Click submit
+
+
+For terminated agents, the terminated status may need to be restored after the transaction has submitted successfully.  To restore the terminated status:
+Click People menu
+Click search
+a new window will appear, fill in accordingly
+Click Agent Basics submenu
+Uncheck the active checkbox
+Add terminated date to profile
+Click the position
+Add terminated date to position
+Click save on position window
+Click save on profile
+Click submit
+
+
+Prevention:
+The best way to prevent these errors going forward is:
+Track terminated agents who have transactions in Pending status - closing out these deals will require following the steps above
+Ensure that staff members who set up new agents are familiar with the agent positions that qualify as sales roles for your franchise.  The position Sales Associate is a sales role for all brands, but the position Sales Agent is classified by Anywhere Real Estate Inc. as a non-agent employee role.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inter-company charges through the Bank Stream
+First, you'll need to Add an office to each company paying Inter-company charges called "Inter-company allocation"
+Click Company menu
+Click Office submenu
+Click new button
+Choose company from the drop-down
+Enter "Inter-company Allocation" as the office name
+Click start
+
+
+Next, Add a Person called "Credit Card Allocation"
+Click People menu
+Click New button
+Choose person type Supplier
+Add company name Credit Card Allocation
+Click next and do not add anything until step 4
+Keep clicking next until step 4 (options)
+Click add button from step 4 (options)
+
+
+When classifying the expense, choose the office "Inter-company allocation" and the correct GL account and person.
+
+
+Create a payable for the expense
+Create a payable for the expense, but use Credit Card Allocation as the vendor
+Check off the box next to inter-company billing
+Fill out the payable information as normal
+Add the original Vendor in the description
+On the last line, offset Inter-company allocation
+Click invoice now to invoice to the other companies
+
+Person or Businessentity information should be supplied for the seller provided occurs when there are missing information for the buyer/seller associated with the transaction.
+The submission error: Person or Businessentity information should be supplied for the seller provided occurs when a buyer or seller Person name or Business Entity information is missing. The person's name should fill in with the first and the last name separately.
+Click People menu
+Click People basics
+Use search button to locate the buyer/seller
+a new window will appear, fill in accordingly
+Fill in the First Name field with a period (.) or as long as the first name and last name are filled in
+Click save
+
+
+Go to the Property then "submit"
+Click Properties menu
+Use search button to locate the buyer/seller
+a new window will appear, fill in accordingly
+Click People submenu
+Check seller/buyer is filled in correctly
+Click submit
+
+
+
+How to Setup Transaction Fees Collected from Agents
+If transaction fees are collected from the seller and buyer in addition to the commission, it is often the case that the agent has to pay the fees if they do not collect them from the seller or buyer.
+A very typical use case is that the office has some fixed amount the agents should collect (this may vary per agent) and the agent is only charged if the amount they collected is less than the minimum determined by the office.
+To setup this deduction rule, follow these simple steps:
+Go to People menu
+On the People basics screen, click search
+
+
+Filter the type to Agent
+Enter a portion of the agent's name
+Click search; or hit enter from your keyboard
+Click on the person name hyperlink
+
+
+
+
+Set up the agent's commission profile.
+Go to the Commission submenu
+On the table, enter the minimum amount to collect on the agent profile on the amount column
+
+
+The next step is to set up the deduction rule. To set up a rule:
+Click Formulas menu
+Click Deduction rules submenu
+Select the deduction type
+Click new
+
+
+Click next
+
+
+Enter the name of the deduction rule
+Adjust the sort order as needed
+Click next
+
+
+Select which side this deduction rule applies to
+Click next
+
+
+Select which commission plan or subplan this deduction rule applies to
+Click next
+
+
+Select which commission subplan based on sides this deduction rule applies to
+Click next
+
+
+Select which transaction types this deduction rule applies to
+Select the accounting code this deduction rule applies to
+Click next
+
+
+Select whether if the deduction rule is for agent generated, office generated, or unknown
+Select which seller source this deduction rule applies to
+Click next
+
+
+Select which offices this deduction applies to
+Click next
+
+
+Enter the advanced criteria as needed
+Click next
+
+
+Select the formula type
+Click next
+Set the percentage to 1 (which means 100%)
+Set the formula as: [Agent profile - Coordinator ($)] - [TransFee List]
+Click next
+
+
+Select the CAP deduction basis of the rule as needed
+Click finish
+How Do I Bill One Agent for their Charges
+Check if the agent has any charges that have not been invoiced yet
+These steps are for invoicing an agent for charges they owe the company which have not been invoiced yet.  Remember, they may also have prior invoices that they have not paid yet.
+To search for an expense that needs to be billed to an agent:
+Click People menu
+Click search to locate the agent
+Filter the person type to Agent
+Click the search button
+Click the name to select the agent
+
+
+
+
+To identify whether the agent owes something to the company
+Click the Billing submenu
+This page will show some items that should be billed:
+All months or;
+Certain month
+
+
+To know whether there are expenses that are yet to be recovered
+Click the Exp recovery submenu
+The page will show:
+Expenses to recover
+these are expenses that the company have paid for the agent and are not invoiced yet to the agent (this needs to charged to the agent)
+Items that are already recovered
+
+
+To make a bill for one agent for the items from Billing and Exp recovery sections :
+Click the Sales menu
+Click agent billing
+
+
+Choose Agents
+Click next
+
+
+Select the company
+Select the office
+Choose the agent by clicking the check box
+Click next
+
+
+To include both recurring charges and reimbursable items, keep the two items checked
+Select posted
+Click confirm
+
+
+The next screen will show the user the confirmation of the invoice created
+Click close
+
+
+The invoice created is saved and posted.
+
