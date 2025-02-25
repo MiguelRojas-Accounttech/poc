@@ -2,43 +2,82 @@ import os
 from dotenv import load_dotenv
 import streamlit as st
 
-@st.cache_resource  # or st.experimental_singleton in older Streamlit versions
+# Load environment variables
+load_dotenv()
+
+# Set up page configuration
+st.set_page_config(
+    page_title="Q&A Interface with Pinecone and GPT",
+    layout="centered",
+    initial_sidebar_state="collapsed"
+)
+
+# Apply custom styles
+st.markdown(
+    """
+    <style>
+        body {
+            background-color: #174376;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        .stApp {
+            background-color: #174376;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .stTextInput input {
+            background-color: transaparent;
+            color: white;
+            border-radius: 8px;
+            padding: 10px;
+        }
+        .stButton button {
+            background-color: transaparent;
+            color: white;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .stMarkdown {
+            background-color: transaparent;
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+        }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
+@st.cache_resource
 def load_qa_chain():
-    # Load environment variables and configure API
-    load_dotenv()
-    pinecone_api_key = os.getenv("PINECONE_API_KEY")
-    openai_api_key = os.getenv("OPENAI_API_KEY")
-    index_name = "darwin-db"  # Verify the name is correct
-
-    # Set OpenAI key in environment
-    os.environ["OPENAI_API_KEY"] = openai_api_key
-
-    # Import and patch Pinecone
     from pinecone import Pinecone
     import pinecone.data.index
-    pinecone.Index = pinecone.data.index.Index
+    from langchain_openai import OpenAIEmbeddings
+    from langchain_community.vectorstores import Pinecone as LC_Pinecone
+    from langchain_community.llms import OpenAI
+    from langchain.chains import RetrievalQA
 
-    # Create Pinecone instance and get index
+    pinecone_api_key = os.getenv("PINECONE_API_KEY")
+    openai_api_key = os.getenv("OPENAI_API_KEY")
+    index_name = "darwin-db"
+    
+    os.environ["OPENAI_API_KEY"] = openai_api_key
+    
+    pinecone.Index = pinecone.data.index.Index
     pc = Pinecone(api_key=pinecone_api_key)
     index = pc.Index(index_name)
-
-    # Initialize embeddings model
-    from langchain_openai import OpenAIEmbeddings
+    
     embeddings = OpenAIEmbeddings(
         model="text-embedding-ada-002",
         openai_api_key=openai_api_key
     )
-
-    # Connect LangChain vectorstore to Pinecone index
-    from langchain_community.vectorstores import Pinecone as LC_Pinecone
+    
     vectorstore = LC_Pinecone.from_existing_index(
         index_name=index_name,
         embedding=embeddings
     )
-
-    # Create question answering (QA) chain using OpenAI as LLM
-    from langchain_community.llms import OpenAI
-    from langchain.chains import RetrievalQA
+    
     qa_chain = RetrievalQA.from_chain_type(
         llm=OpenAI(),
         chain_type="stuff",
@@ -46,19 +85,17 @@ def load_qa_chain():
     )
     return qa_chain
 
-# Load QA chain (this operation is performed only once)
 qa = load_qa_chain()
 
-# Streamlit interface
-st.title("Q&A Interface with Pinecone and GPT")
+st.markdown("<h1 style='text-align: center; color: white;'>Q&A Interface with Pinecone and GPT</h1>", unsafe_allow_html=True)
 
-query = st.text_input("Enter your query:")
+query = st.text_input("Enter your query:", key="query")
 
 if st.button("Ask"):
     if query:
         with st.spinner("Querying..."):
             answer = qa.run(query)
-        st.markdown("**Answer:**")
-        st.write(answer)
+        st.markdown("**Answer:**", unsafe_allow_html=True)
+        st.markdown(f"<div class='stMarkdown'>{answer}</div>", unsafe_allow_html=True)
     else:
         st.error("Please enter a query.")
