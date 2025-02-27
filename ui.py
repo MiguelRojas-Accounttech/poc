@@ -129,7 +129,7 @@ def load_qa_chain():
 
 qa = load_qa_chain()
 
-st.markdown("<h1 style='text-align: center; color: white;'>Chat with Pinecone and GPT</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: white;'>Darwin GPT</h1>", unsafe_allow_html=True)
 
 # Initialize session state for chat history
 if "chat_history" not in st.session_state:
